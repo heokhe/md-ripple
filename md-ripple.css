@@ -1,6 +1,6 @@
 [ripple]{
   -webkit-tap-highlight-color: transparent;
-  position: realtive;
+  position: relative;
   overflow: hidden;
 }
 [ripple] .ripple-effect{
